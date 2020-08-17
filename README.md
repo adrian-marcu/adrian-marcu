@@ -14,19 +14,17 @@
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+<br />
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="Adrian Marcu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
+[<img align="left" alt="Adrian Marcu  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Adrian Marcu  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://instagram.com/adriann.mark
+[facebook]: https://www.facebook.com/adrian.mark.9
 [linkedin]: https://www.linkedin.com/in/adrian-marcu-9582b7b7/
+
