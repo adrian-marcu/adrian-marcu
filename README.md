@@ -27,6 +27,7 @@
 [linkedin]: https://www.linkedin.com/in/adrian-marcu-9582b7b7/
 
 <br />
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
