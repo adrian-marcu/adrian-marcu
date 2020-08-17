@@ -26,3 +26,7 @@
 [facebook]: https://www.facebook.com/adrian.mark.9
 [linkedin]: https://www.linkedin.com/in/adrian-marcu-9582b7b7/
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adrian-marcu&show_icons=true&hide_border=true" />
+</details>
