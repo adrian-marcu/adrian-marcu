@@ -2,23 +2,31 @@
 
 <!--
 **adrian-marcu/adrian-marcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on personal online bussiness
+- 🌱 I’m currently learning entrepreneurship
+- 👯 I’m looking to collaborate on bussiness ideas
+- 🤔 I’m looking for help with startups
+- 💬 Ask me about investing
+- 📫 How to reach me: see below 
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
+
 
 
 
 ### Languages and Tools:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!-- in your body -->
-<i class="devicon-java-plain-wordmark colored"></i>
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+
+### Connect with me:
+
+[<img align="left" alt="Adrian Marcu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
+
+[instagram]: https://instagram.com/adriann.mark
+[linkedin]: https://www.linkedin.com/in/adrian-marcu-9582b7b7/
