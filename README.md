@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />]
-
-<br />
+<!-- in your body -->
+<i class="devicon-java-plain-wordmark colored"></i>
